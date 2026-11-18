@@ -1,3 +1,9 @@
+> **Status:** classroom exercise, 2024. Not a Phygital-DevOps production app.
+>
+> Horiseon page after the HTML5/CSS refactor. Same exercise as code_refractor, kept as its own snapshot.
+>
+> 2026 baseline: secrets stay out of source, Actions are pinned, placeholder packages are gone, CI checks this tree.
+
 # code_refractor
 
 Module 01 Web accessibility
@@ -12,7 +18,7 @@ Applied attributes in CSS to include poitioning, borders, and updated HTML5.
 
 ## Usage
 
-![Screenshot of final page](assets/images/Screenshot_2024-03-27_html5_css_refactor.png)
+![Screenshot of final page](assets/images/Screenshot_2024-03-27_html5_css_refactor.webp)
 
 ## Credits
 
